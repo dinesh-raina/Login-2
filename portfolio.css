@@ -1,3 +1,94 @@
-.p{
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&family=Poppins:wght@400;500;600&display=swap');
+*{
+font-family: "Poppins", sans-serif;
+}
+body{
+background-color: #D4C0BB;
+font-family: Arial,Helvetica,sans-serif;
+}
+.custom-name{
+padding: 0px 0px 18px 7%;
+    margin: 0;
+    float: left;
+    color: #3E3335;
+    width: 45%;
+    font-family: 'Merriweather', serif;
+    font-weight: 600;
+    font-size: 38px;
+    text-align: left;
+    font-variant: small-caps;
+}
+span {
+  -ms-transform: translateY(-35px);
+  -o-transform: translateY(-35px);
+  -moz-transform: translateY(-35px);
+  -webkit-transform: translateY(-35px);
+  transform: translateY(-35px);
+}
+.font-1{
+color: #3e3335;
+font-size: 90px;
+font-weight: bold;
+}
+.font-2{
+color: #3e3335;
+font-size: 31px !important;
+
+
+}
+.img{
+width: 400px;
+heigth: 400px;
+}
+.bg-colors{
+background-color: red;
+
+}
+.mov-left{
+right: 90px;
+}
+.inner
+{
+    height:80px;
+    width:80px;
+
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    border-radius: 100px;
+
+}
+
+.bg-color-1{
+ background-color: #e640bb;
+}
+.bg-color-2{
+ background-color: #2be8f0;
+}
+.bg-color-3{
+ background-color: #d2f520;
+}
+.round-pad{
+padding: 20px;
+}
+.left-spacing{
+left: 30px;
+}
+right-spacing{
+right: 90px;
+}
+.left-spacings{
+left: 70px;
+}
+.text-model{
+font-size: 1.25rem;
+font-weight: 300;
+
+}
+.footer-font-size{
 font-size: 12px;
+}
+
+.footer-heading-size{
+font-size: 14px;
 }
